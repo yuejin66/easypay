@@ -1,7 +1,7 @@
 # easypay
 
 - 个人学习写的一个简易网页支付模块，支持微信支付和支付宝支付。
-- 根据 [the-best-pay](https://github.com/Pay-Group/best-pay-sdk) SDK来编写。
+- [the-best-pay](https://github.com/Pay-Group/best-pay-sdk) SDK
 
 - 技术栈：
 
