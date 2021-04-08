@@ -5,5 +5,5 @@
 
 #### 文档
 
-- wiki
+- [wiki](https://github.com/yuejin66/easypay/wiki)
   
